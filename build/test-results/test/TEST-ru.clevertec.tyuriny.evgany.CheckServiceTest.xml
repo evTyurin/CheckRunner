@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.clevertec.tyuriny.evgany.CheckServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-21T20:23:29" hostname="DESKTOP-2TNGSKQ" time="0.071">
+  <properties/>
+  <testcase name="testInvalidDiscountCardCreateCheck()" classname="ru.clevertec.tyuriny.evgany.CheckServiceTest" time="0.059"/>
+  <testcase name="testValidProductsCreateCheck()" classname="ru.clevertec.tyuriny.evgany.CheckServiceTest" time="0.004"/>
+  <testcase name="testInvalidProductsCreateCheck()" classname="ru.clevertec.tyuriny.evgany.CheckServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
